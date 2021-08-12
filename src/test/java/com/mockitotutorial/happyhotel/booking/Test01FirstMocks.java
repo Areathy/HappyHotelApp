@@ -6,7 +6,7 @@ import org.junit.jupiter.api.* ;
 
 import java.time.LocalDate;
 
-class Test01FirstMocks {
+public class Test01FirstMocks {
     private BookingService bookingService;
     private PaymentService paymentServiceMock;
     private RoomService roomServiceMock;
