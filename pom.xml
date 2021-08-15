@@ -18,7 +18,7 @@
 		<dependency>
 			<groupId>org.mockito</groupId>
 <!--			<artifactId>mockito-core</artifactId>-->
-<!--			The mockito-inline allows you mock static method in mockito-->
+<!--			The mockito-inline allows you mock static and final method in mockito-->
 			<artifactId>mockito-inline</artifactId>
 			<version>3.5.13</version>
 			<scope>test</scope>

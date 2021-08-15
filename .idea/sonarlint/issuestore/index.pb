@@ -1,8 +1,6 @@
 
 n
 >src/main/java/com/mockitotutorial/happyhotel/booking/Room.java,a/6/a67c168a79e0dedf9f329e35ce2971190515ea16
-u
-Esrc/main/java/com/mockitotutorial/happyhotel/booking/RoomService.java,4/7/47b16df353df2fc05dba172046ee0553c93f3932
 t
 Dsrc/main/java/com/mockitotutorial/happyhotel/booking/BookingDAO.java,f/2/f264012fdf2effa7a4e2f1fd0fd5e15be4cc65fe
 x
@@ -25,5 +23,3 @@ Hsrc/test/java/com/mockitotutorial/happyhotel/booking/Test06Matchers.java,e/8/e
 Tsrc/test/java/com/mockitotutorial/happyhotel/booking/Test04MulitipleReturnCalls.java,6/5/65f1578c989f3a231c709c470b38bab84758130a
 {
 Ksrc/test/java/com/mockitotutorial/happyhotel/booking/Test00SanityCheck.java,8/6/867c205e20c677237f9bfaa6582713cb028faba1
-‚
-Rsrc/test/java/com/mockitotutorial/happyhotel/booking/Test03CustomReturnValues.java,4/3/43ca055d405849e62963a99481425521c78a28b5
