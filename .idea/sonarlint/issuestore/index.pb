@@ -23,8 +23,6 @@ x
 Hsrc/test/java/com/mockitotutorial/happyhotel/booking/Test06Matchers.java,e/8/e843b226b759c524e042849e3d6cb5a0b1b4fc96
 „
 Tsrc/test/java/com/mockitotutorial/happyhotel/booking/Test04MulitipleReturnCalls.java,6/5/65f1578c989f3a231c709c470b38bab84758130a
-ƒ
-Ssrc/test/java/com/mockitotutorial/happyhotel/booking/Test02DefaultReturnValues.java,5/2/52306316821903f72465bfc6b002e8ca2e1dc4ad
 {
 Ksrc/test/java/com/mockitotutorial/happyhotel/booking/Test00SanityCheck.java,8/6/867c205e20c677237f9bfaa6582713cb028faba1
 ‚
